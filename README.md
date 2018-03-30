@@ -7,6 +7,10 @@ floatView
 
 峰驼函数，其实就是高中学的 正态分布函数(高斯函数)，然后自己改装一下来得到想要的峰驼
 
+
+![avatar](https://github.com/hu5712022/floatView/blob/master/ztfb.png?raw=true)
+
+
 我这里是这样改装的：
 ```
   /**
