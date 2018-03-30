@@ -8,8 +8,8 @@ floatView
 峰驼函数，其实就是高中学的 正态分布函数(高斯函数)，然后自己改装一下来得到想要的峰驼
 
 我这里是这样改装的：
- 
-  /**
+```
+  /**
      * 峰驼 函数
      *
      * @param x x值 传0返回最大值
@@ -22,5 +22,5 @@ floatView
         return (float) (a * Math.pow(b, -x * x));
     }
   
-
+```
 ![avatar](https://raw.githubusercontent.com/hu5712022/floatView/master/floatview.gif)
